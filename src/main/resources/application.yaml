@@ -31,7 +31,7 @@ spring:
 #mybatis-plus的配置
 mybatis-plus:
   mapper-locations: classpath*:/mapper/*Mapper.xml
-  type-aliases-package: com.panxc.practise.entity
+  type-aliases-package: com.example.test.entity
   configuration:
     map-underscore-to-camel-case: true
     #mybatis-plus配置控制台打印完整带参数SQL语句

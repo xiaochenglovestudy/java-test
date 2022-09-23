@@ -2,8 +2,9 @@ package com.example.test.common;
 
 
 
-import com.panxc.practise.common.constant.HttpStatus;
-import com.panxc.practise.common.utils.StringUtils;
+
+import com.example.test.common.constant.HttpStatus;
+import com.example.test.common.utils.StringUtils;
 
 import java.util.HashMap;
 
